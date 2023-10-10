@@ -89,7 +89,7 @@ To run tests, run the following command:
  *[Albert Antwi]*
 
 - GitHub: [@albertkantwi](https://github.com/albertkantwi)
-- LinkedIn: [Zuwaira Sadiq](https://www.linkedin.com/in/albertkantwi/)
+- LinkedIn: [Albert Antwi](https://www.linkedin.com/in/albertkantwi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
