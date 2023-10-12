@@ -1,5 +1,6 @@
 class Classroom
-  attr_accessor :label, :student_group
+  attr_accessor :label
+  attr_reader :student_group
 
   def initialize(label)
     @label = label
